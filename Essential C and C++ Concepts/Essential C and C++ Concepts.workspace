@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Essential C and C++ Concepts" Database="" Version="10000">
+  <Project Name="ArraysBasics" Path="ArraysBasics/ArraysBasics.project" Active="No"/>
+  <Project Name="Structures" Path="Structures/Structures.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="ArraysBasics" ConfigName="Debug"/>
+      <Project Name="Structures" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="ArraysBasics" ConfigName="Release"/>
+      <Project Name="Structures" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,9 @@
+[{
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Essential C and C++ Concepts\\Structures\\main.cpp",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Essential C and C++ Concepts\\Structures",
+  "command": "C:/mingw64/bin/g++.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Essential C and C++ Concepts\\Structures\\main.cpp\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Essential C and C++ Concepts\\Structures\\main.cpp\".o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Essential C and C++ Concepts\\ArraysBasics\\main.cpp",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Essential C and C++ Concepts\\ArraysBasics",
+  "command": "C:/mingw64/bin/g++.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Essential C and C++ Concepts\\ArraysBasics\\main.cpp\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Essential C and C++ Concepts\\ArraysBasics\\main.cpp\".o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]

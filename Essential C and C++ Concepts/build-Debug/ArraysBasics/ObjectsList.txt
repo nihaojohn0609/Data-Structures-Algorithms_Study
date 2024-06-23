@@ -1,0 +1,1 @@
+../build-Debug/ArraysBasics/main.cpp.o   
