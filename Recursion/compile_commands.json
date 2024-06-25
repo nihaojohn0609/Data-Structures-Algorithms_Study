@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Recursion\\Recursion\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Recursion\\Recursion",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Recursion\\Recursion\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Recursion\\Recursion\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]
