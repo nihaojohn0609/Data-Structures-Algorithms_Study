@@ -1,0 +1,17 @@
+[{
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Array_Delete\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Array_Delete",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Array_Delete\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Array_Delete\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Linear_Search\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Linear_Search",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Linear_Search\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Linear_Search\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Array_Append_Insert\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Array_Append_Insert",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Array_Append_Insert\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Array_Append_Insert\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Array_ADT\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Array_ADT",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Array_ADT\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Array_ADT\\Array_ADT\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]
