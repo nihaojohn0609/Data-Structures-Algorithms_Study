@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Comparing_Strings_and_Checking_Palindrome\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Comparing_Strings_and_Checking_Palindrome",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Strings\\Comparing_Strings_and_Checking_Palindrome\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Strings\\Comparing_Strings_and_Checking_Palindrome\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Finding_Duplicates_in_String\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Finding_Duplicates_in_String",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Strings\\Finding_Duplicates_in_String\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Strings\\Finding_Duplicates_in_String\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Validating_a_String\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Validating_a_String",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Strings\\Validating_a_String\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Strings\\Validating_a_String\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Counting_Words_and_Vowels_in_String\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Counting_Words_and_Vowels_in_String",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Strings\\Counting_Words_and_Vowels_in_String\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Strings\\Counting_Words_and_Vowels_in_String\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Reversing_a_String\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Reversing_a_String",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Strings\\Reversing_a_String\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Strings\\Reversing_a_String\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Changing_Case_of_String\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Changing_Case_of_String",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Strings\\Changing_Case_of_String\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Strings\\Changing_Case_of_String\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Finding_Duplicates_in_String_Hashing\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Finding_Duplicates_in_String_Hashing",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Strings\\Finding_Duplicates_in_String_Hashing\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Strings\\Finding_Duplicates_in_String_Hashing\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Finding_Length_of_a_String\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Strings\\Finding_Length_of_a_String",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Strings\\Finding_Length_of_a_String\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Strings\\Finding_Length_of_a_String\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]

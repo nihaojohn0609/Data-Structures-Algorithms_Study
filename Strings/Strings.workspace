@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Strings" Database="" Version="10000">
+  <Project Name="Finding_Length_of_a_String" Path="Finding_Length_of_a_String/Finding_Length_of_a_String.project" Active="No"/>
+  <Project Name="Changing_Case_of_String" Path="Changing_Case_of_String/Changing_Case_of_String.project" Active="No"/>
+  <Project Name="Counting_Words_and_Vowels_in_String" Path="Counting_Words_and_Vowels_in_String/Counting_Words_and_Vowels_in_String.project" Active="No"/>
+  <Project Name="Validating_a_String" Path="Validating_a_String/Validating_a_String.project" Active="No"/>
+  <Project Name="Reversing_a_String" Path="Reversing_a_String/Reversing_a_String.project" Active="No"/>
+  <Project Name="Comparing_Strings_and_Checking_Palindrome" Path="Comparing_Strings_and_Checking_Palindrome/Comparing_Strings_and_Checking_Palindrome.project" Active="No"/>
+  <Project Name="Finding_Duplicates_in_String" Path="Finding_Duplicates_in_String/Finding_Duplicates_in_String.project" Active="No"/>
+  <Project Name="Finding_Duplicates_in_String_Hashing" Path="Finding_Duplicates_in_String_Hashing/Finding_Duplicates_in_String_Hashing.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Finding_Length_of_a_String" ConfigName="Debug"/>
+      <Project Name="Changing_Case_of_String" ConfigName="Debug"/>
+      <Project Name="Counting_Words_and_Vowels_in_String" ConfigName="Debug"/>
+      <Project Name="Validating_a_String" ConfigName="Debug"/>
+      <Project Name="Reversing_a_String" ConfigName="Debug"/>
+      <Project Name="Comparing_Strings_and_Checking_Palindrome" ConfigName="Debug"/>
+      <Project Name="Finding_Duplicates_in_String" ConfigName="Debug"/>
+      <Project Name="Finding_Duplicates_in_String_Hashing" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Finding_Length_of_a_String" ConfigName="Release"/>
+      <Project Name="Changing_Case_of_String" ConfigName="Release"/>
+      <Project Name="Counting_Words_and_Vowels_in_String" ConfigName="Release"/>
+      <Project Name="Validating_a_String" ConfigName="Release"/>
+      <Project Name="Reversing_a_String" ConfigName="Release"/>
+      <Project Name="Comparing_Strings_and_Checking_Palindrome" ConfigName="Release"/>
+      <Project Name="Finding_Duplicates_in_String" ConfigName="Release"/>
+      <Project Name="Finding_Duplicates_in_String_Hashing" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
