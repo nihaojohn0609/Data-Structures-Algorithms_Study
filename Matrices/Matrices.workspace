@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Matrices" Database="" Version="10000">
+  <Project Name="Diagonal_Matrix" Path="Diagonal_Matrix/Diagonal_Matrix.project" Active="No"/>
+  <Project Name="Diagonal_Matrix_CPP" Path="Diagonal_Matrix_CPP/Diagonal_Matrix_CPP.project" Active="No"/>
+  <Project Name="Lower_Triangular_Matrix_Row_Major_Mapping" Path="Lower_Triangular_Matrix_Row_Major_Mapping/Lower_Triangular_Matrix_Row_Major_Mapping.project" Active="No"/>
+  <Project Name="Lower_Triangular_Matrix_Column_Major_Mapping" Path="Lower_Triangular_Matrix_Column_Major_Mapping/Lower_Triangular_Matrix_Column_Major_Mapping.project" Active="No"/>
+  <Project Name="Lower_Triangular_Matrix_Row_Major_CPP" Path="Lower_Triangular_Matrix_Row_Major_CPP/Lower_Triangular_Matrix_Row_Major_CPP.project" Active="No"/>
+  <Project Name="Lower_Triangular_Matrix_Column_Major_CPP" Path="Lower_Triangular_Matrix_Column_Major_CPP/Lower_Triangular_Matrix_Column_Major_CPP.project" Active="No"/>
+  <Project Name="Upper_Triangular_Matrix_Row_Major" Path="Upper_Triangular_Matrix_Row_Major/Upper_Triangular_Matrix_Row_Major.project" Active="No"/>
+  <Project Name="Upper_Triangular_Matrix_Column_Major" Path="Upper_Triangular_Matrix_Column_Major/Upper_Triangular_Matrix_Column_Major.project" Active="No"/>
+  <Project Name="Upper_Triangular_Matrix_Row_Major_CPP" Path="Upper_Triangular_Matrix_Row_Major_CPP/Upper_Triangular_Matrix_Row_Major_CPP.project" Active="No"/>
+  <Project Name="Upper_Triangular_Matrix_Column_Major_CPP" Path="Upper_Triangular_Matrix_Column_Major_CPP/Upper_Triangular_Matrix_Column_Major_CPP.project" Active="No"/>
+  <Project Name="Symmetric_Matrix" Path="Symmetric_Matrix/Symmetric_Matrix.project" Active="Yes"/>
+  <Project Name="Symmetric_Matrix_CPP" Path="Symmetric_Matrix_CPP/Symmetric_Matrix_CPP.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Diagonal_Matrix" ConfigName="Debug"/>
+      <Project Name="Diagonal_Matrix_CPP" ConfigName="Debug"/>
+      <Project Name="Lower_Triangular_Matrix_Row_Major_Mapping" ConfigName="Debug"/>
+      <Project Name="Lower_Triangular_Matrix_Column_Major_Mapping" ConfigName="Debug"/>
+      <Project Name="Lower_Triangular_Matrix_Row_Major_CPP" ConfigName="Debug"/>
+      <Project Name="Lower_Triangular_Matrix_Column_Major_CPP" ConfigName="Debug"/>
+      <Project Name="Upper_Triangular_Matrix_Row_Major" ConfigName="Debug"/>
+      <Project Name="Upper_Triangular_Matrix_Column_Major" ConfigName="Debug"/>
+      <Project Name="Upper_Triangular_Matrix_Row_Major_CPP" ConfigName="Debug"/>
+      <Project Name="Upper_Triangular_Matrix_Column_Major_CPP" ConfigName="Debug"/>
+      <Project Name="Symmetric_Matrix" ConfigName="Debug"/>
+      <Project Name="Symmetric_Matrix_CPP" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Diagonal_Matrix" ConfigName="Release"/>
+      <Project Name="Diagonal_Matrix_CPP" ConfigName="Release"/>
+      <Project Name="Lower_Triangular_Matrix_Row_Major_Mapping" ConfigName="Release"/>
+      <Project Name="Lower_Triangular_Matrix_Column_Major_Mapping" ConfigName="Release"/>
+      <Project Name="Lower_Triangular_Matrix_Row_Major_CPP" ConfigName="Release"/>
+      <Project Name="Lower_Triangular_Matrix_Column_Major_CPP" ConfigName="Release"/>
+      <Project Name="Upper_Triangular_Matrix_Row_Major" ConfigName="Release"/>
+      <Project Name="Upper_Triangular_Matrix_Column_Major" ConfigName="Release"/>
+      <Project Name="Upper_Triangular_Matrix_Row_Major_CPP" ConfigName="Release"/>
+      <Project Name="Upper_Triangular_Matrix_Column_Major_CPP" ConfigName="Release"/>
+      <Project Name="Symmetric_Matrix" ConfigName="Release"/>
+      <Project Name="Symmetric_Matrix_CPP" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

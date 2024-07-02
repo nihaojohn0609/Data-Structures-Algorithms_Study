@@ -1,0 +1,2 @@
+../build-Debug/Lower_Triangular_Matrix_Column_Major_Mapping/main.c.o: \
+ main.c

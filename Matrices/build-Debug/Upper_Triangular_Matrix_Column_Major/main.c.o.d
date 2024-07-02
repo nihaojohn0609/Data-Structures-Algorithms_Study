@@ -1,0 +1,1 @@
+../build-Debug/Upper_Triangular_Matrix_Column_Major/main.c.o: main.c
