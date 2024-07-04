@@ -1,0 +1,9 @@
+[{
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial Representation\\Sparse_Matrix_CPP\\main.cpp",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial Representation\\Sparse_Matrix_CPP",
+  "command": "C:/mingw64/bin/g++.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial Representation\\Sparse_Matrix_CPP\\main.cpp\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial Representation\\Sparse_Matrix_CPP\\main.cpp\".o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0 -IC:\\mingw64\\include\\c++\\14.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial Representation\\Sparse_Matrix\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial Representation\\Sparse_Matrix",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial Representation\\Sparse_Matrix\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial Representation\\Sparse_Matrix\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]

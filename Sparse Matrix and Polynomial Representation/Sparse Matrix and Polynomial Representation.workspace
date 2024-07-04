@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sparse Matrix and Polynomial Representation" Database="" Version="10000">
+  <Project Name="Sparse_Matrix" Path="Sparse_Matrix/Sparse_Matrix.project" Active="Yes"/>
+  <Project Name="Sparse_Matrix_CPP" Path="Sparse_Matrix_CPP/Sparse_Matrix_CPP.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Sparse_Matrix" ConfigName="Debug"/>
+      <Project Name="Sparse_Matrix_CPP" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Sparse_Matrix" ConfigName="Release"/>
+      <Project Name="Sparse_Matrix_CPP" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
