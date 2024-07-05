@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Linked List\\Display_Linked_List\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Linked List\\Display_Linked_List",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Linked List\\Display_Linked_List\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Linked List\\Display_Linked_List\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]
