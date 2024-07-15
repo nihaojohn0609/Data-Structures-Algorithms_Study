@@ -1,0 +1,13 @@
+[{
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial using Linked List\\Polynomial_using_Linked_List_Addition\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial using Linked List\\Polynomial_using_Linked_List_Addition",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial using Linked List\\Polynomial_using_Linked_List_Addition\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial using Linked List\\Polynomial_using_Linked_List_Addition\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial using Linked List\\Polynomial_using_Linked_List\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial using Linked List\\Polynomial_using_Linked_List",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial using Linked List\\Polynomial_using_Linked_List\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial using Linked List\\Polynomial_using_Linked_List\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial using Linked List\\Sparse_Matrix_using_Linked_List\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial using Linked List\\Sparse_Matrix_using_Linked_List",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial using Linked List\\Sparse_Matrix_using_Linked_List\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Sparse Matrix and Polynomial using Linked List\\Sparse_Matrix_using_Linked_List\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]
