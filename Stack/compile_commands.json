@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Stack\\Stack_using_Array\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Stack\\Stack_using_Array",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\DataStructuresandAlgorithms\\Stack\\Stack_using_Array\\main.c -o C:\\dev\\DataStructuresandAlgorithms\\Stack\\Stack_using_Array\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]
