@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Trees" Database="" Version="10000">
+  <Project Name="Creating_Binary_Tree" Path="Creating_Binary_Tree/Creating_Binary_Tree.project" Active="No"/>
+  <Project Name="Tree_CPP" Path="Tree_CPP/Tree_CPP.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Creating_Binary_Tree" ConfigName="Debug"/>
+      <Project Name="Tree_CPP" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Creating_Binary_Tree" ConfigName="Release"/>
+      <Project Name="Tree_CPP" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
