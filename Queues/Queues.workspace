@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Queues" Database="" Version="10000">
+  <Project Name="Queue_using_Array" Path="Queue_using_Array/Queue_using_Array.project" Active="No"/>
+  <Project Name="Queue_CPP" Path="Queue_CPP/Queue_CPP.project" Active="No"/>
+  <Project Name="Circular_Queue" Path="Circular_Queue/Circular_Queue.project" Active="No"/>
+  <Project Name="Queue_using_Linked_List" Path="Queue_using_Linked_List/Queue_using_Linked_List.project" Active="No"/>
+  <Project Name="Double_Ended_Queue" Path="Double_Ended_Queue/Double_Ended_Queue.project" Active="No"/>
+  <Project Name="Priority_Queue" Path="Priority_Queue/Priority_Queue.project" Active="Yes"/>
+  <Project Name="Queue_using_2_Stacks" Path="Queue_using_2_Stacks/Queue_using_2_Stacks.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Queue_using_Array" ConfigName="Debug"/>
+      <Project Name="Queue_CPP" ConfigName="Debug"/>
+      <Project Name="Circular_Queue" ConfigName="Debug"/>
+      <Project Name="Queue_using_Linked_List" ConfigName="Debug"/>
+      <Project Name="Double_Ended_Queue" ConfigName="Debug"/>
+      <Project Name="Priority_Queue" ConfigName="Debug"/>
+      <Project Name="Queue_using_2_Stacks" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Queue_using_Array" ConfigName="Release"/>
+      <Project Name="Queue_CPP" ConfigName="Release"/>
+      <Project Name="Circular_Queue" ConfigName="Release"/>
+      <Project Name="Queue_using_Linked_List" ConfigName="Release"/>
+      <Project Name="Double_Ended_Queue" ConfigName="Release"/>
+      <Project Name="Priority_Queue" ConfigName="Release"/>
+      <Project Name="Queue_using_2_Stacks" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,1 @@
+../build-Debug/Queue_using_2_Stacks/main.c.o: main.c
