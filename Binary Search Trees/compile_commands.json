@@ -1,0 +1,9 @@
+[{
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Binary Search Trees\\Recursive_Insert_and_Delete_Binary_Search_Tree\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Binary Search Trees\\Recursive_Insert_and_Delete_Binary_Search_Tree",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Binary Search Trees\\Recursive_Insert_and_Delete_Binary_Search_Tree\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Binary Search Trees\\Recursive_Insert_and_Delete_Binary_Search_Tree\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Binary Search Trees\\Binary_Search_Tree_Create,Insert,Search\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Binary Search Trees\\Binary_Search_Tree_Create,Insert,Search",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Binary Search Trees\\Binary_Search_Tree_Create,Insert,Search\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Binary Search Trees\\Binary_Search_Tree_Create,Insert,Search\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]

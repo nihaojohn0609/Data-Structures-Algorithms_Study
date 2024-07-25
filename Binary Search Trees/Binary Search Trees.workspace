@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Binary Search Trees" Database="" Version="10000">
+  <Project Name="Binary_Search_Tree_Create,Insert,Search" Path="Binary_Search_Tree_Create,Insert,Search/Binary_Search_Tree_Create,Insert,Search.project" Active="No"/>
+  <Project Name="Recursive_Insert_and_Delete_Binary_Search_Tree" Path="Recursive_Insert_and_Delete_Binary_Search_Tree/Recursive_Insert_and_Delete_Binary_Search_Tree.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Binary_Search_Tree_Create,Insert,Search" ConfigName="Debug"/>
+      <Project Name="Recursive_Insert_and_Delete_Binary_Search_Tree" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Binary_Search_Tree_Create,Insert,Search" ConfigName="Release"/>
+      <Project Name="Recursive_Insert_and_Delete_Binary_Search_Tree" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
