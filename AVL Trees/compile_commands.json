@@ -1,0 +1,17 @@
+[{
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_RL_Rotation\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_RL_Rotation",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_RL_Rotation\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_RL_Rotation\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_RR_Rotation\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_RR_Rotation",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_RR_Rotation\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_RR_Rotation\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_LR_Rotation\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_LR_Rotation",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_LR_Rotation\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_LR_Rotation\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_LL_Rotation\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_LL_Rotation",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_LL_Rotation\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\AVL Trees\\AVL_Tree_LL_Rotation\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]

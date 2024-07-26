@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="AVL Trees" Database="" Version="10000">
+  <Project Name="AVL_Tree_LL_Rotation" Path="AVL_Tree_LL_Rotation/AVL_Tree_LL_Rotation.project" Active="No"/>
+  <Project Name="AVL_Tree_LR_Rotation" Path="AVL_Tree_LR_Rotation/AVL_Tree_LR_Rotation.project" Active="No"/>
+  <Project Name="AVL_Tree_RR_Rotation" Path="AVL_Tree_RR_Rotation/AVL_Tree_RR_Rotation.project" Active="No"/>
+  <Project Name="AVL_Tree_RL_Rotation" Path="AVL_Tree_RL_Rotation/AVL_Tree_RL_Rotation.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="AVL_Tree_LL_Rotation" ConfigName="Debug"/>
+      <Project Name="AVL_Tree_LR_Rotation" ConfigName="Debug"/>
+      <Project Name="AVL_Tree_RR_Rotation" ConfigName="Debug"/>
+      <Project Name="AVL_Tree_RL_Rotation" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="AVL_Tree_LL_Rotation" ConfigName="Release"/>
+      <Project Name="AVL_Tree_LR_Rotation" ConfigName="Release"/>
+      <Project Name="AVL_Tree_RR_Rotation" ConfigName="Release"/>
+      <Project Name="AVL_Tree_RL_Rotation" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
