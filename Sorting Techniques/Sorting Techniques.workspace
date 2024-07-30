@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sorting Techniques" Database="" Version="10000">
+  <Project Name="Bubble_Sort" Path="Bubble_Sort/Bubble_Sort.project" Active="No"/>
+  <Project Name="Insertion_Sort" Path="Insertion_Sort/Insertion_Sort.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Bubble_Sort" ConfigName="Debug"/>
+      <Project Name="Insertion_Sort" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Bubble_Sort" ConfigName="Release"/>
+      <Project Name="Insertion_Sort" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
