@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Merge_Sort_Recursive\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Merge_Sort_Recursive",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Merge_Sort_Recursive\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Merge_Sort_Recursive\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Quick_Sort\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Quick_Sort",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Quick_Sort\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Quick_Sort\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Bubble_Sort\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Bubble_Sort",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Bubble_Sort\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Bubble_Sort\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Selection_Sort\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Selection_Sort",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Selection_Sort\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Selection_Sort\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Insertion_Sort\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Insertion_Sort",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Insertion_Sort\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Insertion_Sort\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Merge_Sort_Iterative\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Merge_Sort_Iterative",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Merge_Sort_Iterative\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Sorting Techniques\\Merge_Sort_Iterative\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]

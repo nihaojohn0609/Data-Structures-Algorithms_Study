@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sorting Techniques" Database="" Version="10000">
+  <Project Name="Bubble_Sort" Path="Bubble_Sort/Bubble_Sort.project" Active="No"/>
+  <Project Name="Insertion_Sort" Path="Insertion_Sort/Insertion_Sort.project" Active="No"/>
+  <Project Name="Selection_Sort" Path="Selection_Sort/Selection_Sort.project" Active="No"/>
+  <Project Name="Quick_Sort" Path="Quick_Sort/Quick_Sort.project" Active="No"/>
+  <Project Name="Merge_Sort_Iterative" Path="Merge_Sort_Iterative/Merge_Sort_Iterative.project" Active="No"/>
+  <Project Name="Merge_Sort_Recursive" Path="Merge_Sort_Recursive/Merge_Sort_Recursive.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Bubble_Sort" ConfigName="Debug"/>
+      <Project Name="Insertion_Sort" ConfigName="Debug"/>
+      <Project Name="Selection_Sort" ConfigName="Debug"/>
+      <Project Name="Quick_Sort" ConfigName="Debug"/>
+      <Project Name="Merge_Sort_Iterative" ConfigName="Debug"/>
+      <Project Name="Merge_Sort_Recursive" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Bubble_Sort" ConfigName="Release"/>
+      <Project Name="Insertion_Sort" ConfigName="Release"/>
+      <Project Name="Selection_Sort" ConfigName="Release"/>
+      <Project Name="Quick_Sort" ConfigName="Release"/>
+      <Project Name="Merge_Sort_Iterative" ConfigName="Release"/>
+      <Project Name="Merge_Sort_Recursive" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
