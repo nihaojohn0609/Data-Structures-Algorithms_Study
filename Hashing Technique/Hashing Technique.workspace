@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Hashing Technique" Database="" Version="10000">
+  <Project Name="Chaining" Path="Chaining/Chaining.project" Active="No"/>
+  <Project Name="Linear_Probing" Path="Linear_Probing/Linear_Probing.project" Active="No"/>
+  <Project Name="Quadratic_Probing" Path="Quadratic_Probing/Quadratic_Probing.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Chaining" ConfigName="Debug"/>
+      <Project Name="Linear_Probing" ConfigName="Debug"/>
+      <Project Name="Quadratic_Probing" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Chaining" ConfigName="Release"/>
+      <Project Name="Linear_Probing" ConfigName="Release"/>
+      <Project Name="Quadratic_Probing" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

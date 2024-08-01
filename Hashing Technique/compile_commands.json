@@ -1,0 +1,17 @@
+[{
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Quadratic_Probing\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Quadratic_Probing",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Quadratic_Probing\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Quadratic_Probing\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Linear_Probing\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Linear_Probing",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Linear_Probing\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Linear_Probing\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Chaining\\main.c",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Chaining",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Chaining\\main.c\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Chaining\\main.c\".o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Chaining\\LinkedList.h",
+  "directory": "C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Chaining",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c \"C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Chaining\\LinkedList.h\" -o \"C:\\dev\\DataStructuresandAlgorithms\\Hashing Technique\\Chaining\\LinkedList.h\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
