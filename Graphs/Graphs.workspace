@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Graphs" Database="" Version="10000">
+  <Project Name="BFS_DFS" Path="BFS_DFS/BFS_DFS.project" Active="No"/>
+  <Project Name="Prim_Algorithm" Path="Prim_Algorithm/Prim_Algorithm.project" Active="No"/>
+  <Project Name="Kruskal_Algorithm" Path="Kruskal_Algorithm/Kruskal_Algorithm.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="BFS_DFS" ConfigName="Debug"/>
+      <Project Name="Prim_Algorithm" ConfigName="Debug"/>
+      <Project Name="Kruskal_Algorithm" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="BFS_DFS" ConfigName="Release"/>
+      <Project Name="Prim_Algorithm" ConfigName="Release"/>
+      <Project Name="Kruskal_Algorithm" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
